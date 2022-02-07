@@ -1,4 +1,4 @@
-1 - Clonar o repositorio logica de progamação para a maquina local.
+-1 - Clonar o repositorio logica de progamação para a maquina local.
 
 2 - Criar um arquivo no repositorio local com o nome casa.txt
  
